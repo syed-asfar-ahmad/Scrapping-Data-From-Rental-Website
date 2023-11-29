@@ -17,3 +17,11 @@ This Python script uses BeautifulSoup and requests libraries to scrape apartment
 
 ```bash
 python scraper.py
+
+Script Overview
+scraper.py: Python script for scraping apartment listings.
+SlashByte Studios.csv: Output CSV file containing URLs, titles, and monthly prices of listings.
+Notes
+The script fetches apartment listing URLs from multiple pages on the Pararius website.
+It then extracts specific information (title and price) for each listing URL.
+The extracted data is stored in a CSV file named SlashByte Studios.csv.
