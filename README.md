@@ -11,9 +11,9 @@ This Python script uses BeautifulSoup and requests libraries to scrape apartment
 
 ## Usage
 
-1. Clone the repository or download the `scraper.py` file.
+1. Clone the repository or download the `SlashByte Studios.py` file.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run the `scraper.py` file.
+3. Run the `SlashByte Studios.py` file.
 
 ```bash
 python scraper.py
