@@ -17,6 +17,7 @@ This Python script uses BeautifulSoup and requests libraries to scrape apartment
 
 ```bash
 python scraper.py
+```
 
 Script Overview
 scraper.py: Python script for scraping apartment listings.
