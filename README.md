@@ -1,4 +1,4 @@
-# Scrapping-Data-From-Rental-Website
+![screencapture-colab-research-google-drive-1SHKfXxjl04uM1bZ5RnoTVRHzSYokWQlE-2023-11-29-22_19_28](https://github.com/syed-asfar-ahmad/Scrapping-Data-From-Rental-Website/assets/85727853/664f85b4-b791-4808-ae84-30a4300155cc)# Scrapping-Data-From-Rental-Website
 
 This Python script uses BeautifulSoup and requests libraries to scrape apartment listings from the Pararius website in Amsterdam.
 
@@ -17,3 +17,5 @@ This Python script uses BeautifulSoup and requests libraries to scrape apartment
 
 ```bash
 python scraper.py
+
+![Uploading screencapture-colab-research-google-drive-1SHKfXxjl04uM1bZ5RnoTVRHzSYokWQlE-2023-11-29-22_19_28.png…]()
